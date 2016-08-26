@@ -1,0 +1,5 @@
+This is swig interface code for generate webex-eureka-common java code and jni code.
+
+generate code:
+sh build_arm.sh
+
